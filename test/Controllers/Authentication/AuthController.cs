@@ -8,6 +8,8 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Threading.Tasks;
 using ExceptionNotification;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace LuegoPago.Controllers.Authentication
 {

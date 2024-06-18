@@ -22,8 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\JwtAuthLibrary\JwtAuthLibrary.csproj" />
     <ProjectReference Include="..\src\ExceptionNotification\ExceptionNotification.csproj" />
+    <ProjectReference Include="..\src\JwtAuthLibrary\JwtAuthLibrary.csproj" />
   </ItemGroup>
 
 </Project>
