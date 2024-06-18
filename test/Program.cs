@@ -25,7 +25,7 @@ builder.Services.AddSingleton<Utilidades>();
 
 // Registrar SlackExceptionNotifier con la URL del webhook de Slack
 builder.Services.AddSingleton<SlackExceptionNotifier>(sp =>
-    new SlackExceptionNotifier("https://hooks.slack.com/services/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")
+    new SlackExceptionNotifier("https://hooks.slack.com/services/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")
 );
 
 // Otros servicios
